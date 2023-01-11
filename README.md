@@ -6,7 +6,7 @@
 - 📕 Curso técnico em desenvolvimento de sistemas em fundação Bradesco
 - 🏥 Tenho 19 anos
 
-**linguagens que eu estudo**
+**linguagens que eu estudo:**
 
 <div>
 <img align="center" alt="ysaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
