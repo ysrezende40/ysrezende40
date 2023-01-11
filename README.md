@@ -3,7 +3,7 @@
 
 
 - 💻 Atualmente estou desempregado mas trabalhava com suporte em TI.
-- 📕 Estou estudando com foco em javascript
+- 📕 Curso técnico em desenvolvimento de sistemas em fundação Bradesco
 - 🏥 Tenho 19 anos
 
 **linguagens que eu estudo**
