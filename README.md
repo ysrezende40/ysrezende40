@@ -2,7 +2,7 @@
 
 
 
-- 💻 Atualmente estou desempregado mas trabalhava com suporte em TI.
+- 💻 Atualmente estou trabalhando como backoffice na desktop.
 - 📕 Curso técnico em desenvolvimento de sistemas em fundação Bradesco
 - 🏥 Tenho 19 anos
 
@@ -11,7 +11,10 @@
 <div>
 <img align="center" alt="ysaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="ysaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="ysaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="ysaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="ysaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="ysaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+
 
 
 
