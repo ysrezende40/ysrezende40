@@ -2,7 +2,7 @@
 
 
 
-- 💻 Atualmente estou trabalhando como backoffice na desktop.
+- 💻 Atualmente estou trabalhando como aprendiz de dados e programação na ABV.
 - 📕 Curso técnico em desenvolvimento de sistemas em fundação Bradesco
 - 🏥 Tenho 19 anos
 
