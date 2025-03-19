@@ -2,11 +2,12 @@
 
 
 
-- 💻 Atualmente estou trabalhando como aprendiz de dados e programação na ABV.
-- 📕 Curso técnico em desenvolvimento de sistemas em fundação Bradesco
-- 🏥 Tenho 20 anos
+- 💻 Atualmente estou trabalhando como estagiário de dados e programação na ABV.
+- 📕 Técnico em desenvolvimento de sistemas em fundação Bradesco
+- 📕 Cursando análise e desenvolvimento de sistemas em Unimetrocamp Campinas
+- 🏥 Tenho 21 anos
 
-**linguagens que eu estudo:**
+**linguagens que eu estudo/trabalho:**
 
 <div>
 <img align="center" alt="ysaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
