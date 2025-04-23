@@ -10,7 +10,7 @@
 🏥 Tenho 21 anos</div>  
   
 
-- ✈ 💻 Atualmente estou trabalhando como estagiário de dados e programação na ABV. [https://www.viracopos.com/pt_br/cargo/]  
+- ✈ 💻 Atualmente estou trabalhando como desenvolvedor banck-end junior na FanBase. [https://fanbase.com.br/]  
   
 
 - 🌱Atualmente estou aprendendo Vue.js e Azure  
